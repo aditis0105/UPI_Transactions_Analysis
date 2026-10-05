@@ -103,7 +103,8 @@ IF('UPI Transactions'[CustomerAge] <= 25, "A1",
 ## 🖼 Screenshots
 
 ### 1. Column Chart (Transaction Amounts)
-![Transaction Amounts](images/column_transaction_amounts.png)
+![Transaction Amounts]<img width="1435" height="805" alt="CCAmounts" src="https://github.com/user-attachments/assets/2b34b95f-4367-4fe1-9b4a-4743f1b3dc81" />
+
 
 ### 2. Column Chart (Balance Trends)
 ![Balance Column Chart](images/column_balance_trends.png)
