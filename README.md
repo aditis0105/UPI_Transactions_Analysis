@@ -103,30 +103,30 @@ IF('UPI Transactions'[CustomerAge] <= 25, "A1",
 ## 🖼 Screenshots
 
 ### 1. Column Chart (Transaction Amounts)
-[Transaction Amounts]<img width="1435" height="805" alt="CCAmounts" src="https://github.com/user-attachments/assets/2b34b95f-4367-4fe1-9b4a-4743f1b3dc81" />
+<img width="1435" height="805" alt="CCAmounts" src="https://github.com/user-attachments/assets/2b34b95f-4367-4fe1-9b4a-4743f1b3dc81" />
 
 
 ### 2. Column Chart (Balance Trends)
-[Balance Column Chart](<img width="1446" height="806" alt="CCB" src="https://github.com/user-attachments/assets/0ed801d9-eaa3-42d9-a254-4bdc4f3e82a4" />
-)
+<img width="1446" height="806" alt="CCB" src="https://github.com/user-attachments/assets/0ed801d9-eaa3-42d9-a254-4bdc4f3e82a4" />
+
 
 ### 3. Line Chart (Balance Trends)
-![Balance Line Chart](<img width="1432" height="807" alt="LCB" src="https://github.com/user-attachments/assets/8ff930f1-ad37-46d0-b3a1-ede193ffe4b2" />
-)
+<img width="1432" height="807" alt="LCB" src="https://github.com/user-attachments/assets/8ff930f1-ad37-46d0-b3a1-ede193ffe4b2" />
+
 
 ### 4. Line Chart (Transaction Trends)
-![Transaction Line Chart](<img width="1432" height="808" alt="LineChart" src="https://github.com/user-attachments/assets/b2cbb79b-d7d4-4a69-b1e9-3c066df8203f" />
-)
+<img width="1432" height="808" alt="LineChart" src="https://github.com/user-attachments/assets/b2cbb79b-d7d4-4a69-b1e9-3c066df8203f" />
+
 
 ### 5. Matrix Visual (Detailed Insights)
-![Matrix Visual](<img width="1435" height="805" alt="MatrixVisual" src="https://github.com/user-attachments/assets/4e0c0350-39e8-47b4-a93a-84bae3674026" />
-)
+<img width="1435" height="805" alt="MatrixVisual" src="https://github.com/user-attachments/assets/4e0c0350-39e8-47b4-a93a-84bae3674026" />
+
 
 ---
 
 ## ⚡ How to Use the Report
 
-1. Download the `.pbix` file and open it in **Power BI Desktop** (free, Windows only).
+1. Download the `.pbix` file and open it in **Power BI Desktop** 
 2. Use the slicers to filter transactions dynamically.
 3. Use the bookmarks to switch between views.
 4. (Optional) View the published version on Power BI Service: [add link if you have one]
