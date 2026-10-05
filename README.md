@@ -22,7 +22,6 @@ This project analyses UPI transactions using Power BI. The dataset was transform
 
 ## 📂 Dataset Description
 
-- **Source:** [Dataset name and link, e.g. Kaggle]
 
 | Column | Description |
 |---|---|
@@ -153,5 +152,5 @@ IF('UPI Transactions'[CustomerAge] <= 25, "A1",
 ## 👩‍💻 Author
 
 **Aditi Sharma**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi0105/?isSelfProfile=true)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditis0105)
